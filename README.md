@@ -1,5 +1,3 @@
-# Social Media Cross-Poster Discord Bot
-
 A Discord bot that allows users to post messages to X (Twitter) and Bluesky simultaneously through simple commands.
 
 ## Features
